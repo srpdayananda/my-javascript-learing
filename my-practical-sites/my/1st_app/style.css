@@ -1,0 +1,76 @@
+body{
+    background-color: aqua;
+}
+#main{
+    width: 40%;
+    height: 500px;
+    text-align: center;
+    float: left;
+    margin: 40px,10px,0px,150px;
+    background-color: whitesmoke;
+    color: black;
+}
+#head{
+    background-color: black;
+    color: whitesmoke;
+    width: 100%;
+    height: 55px;
+    padding: 1px;
+    margin-bottom: 50px;
+}
+#main input{
+    height: 10px;
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 50px;
+    
+}
+#main button{
+    background-color: purple;
+    color: whitesmoke;
+    height: 30px;
+    width: 100px;
+    padding: 10px;
+}
+#main label{
+    font-size: 25px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+}
+#result{
+    height: 500px;
+    width: 40%;
+    margin: 40px,10px,0px,150px;
+    margin-top: 40px;
+    float: left;
+    padding: 1px;
+    margin-bottom: 50px;
+}
+#head1, #head2, #head3{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    height:50px;
+    width: 150%;
+}
+#total{
+    height: 150px;
+    width: 150%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+}
+#average{
+    height: 100px;
+    width: 150%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+}
+#grade{
+    height: 100px;
+    width: 150%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: left;
+}

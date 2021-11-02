@@ -1,0 +1,37 @@
+body{
+background-color: blueviolet;
+}
+
+.search{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+input{
+    margin: 24px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+}
+button{
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background-color:black;
+    color: whitesmoke;
+}
+.users{
+    margin: 36px;
+    font-size: 50px;
+    font-style: normal;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+#list{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: normal;
+    color: whitesmoke;
+}
